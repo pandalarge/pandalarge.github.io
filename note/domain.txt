@@ -1,4 +1,0 @@
-本文档展示Anuyoah.com域名的各个子域名用途：
-
-anuyoah.com(www)		建站
-nas.anuyoah.com		内网NAS系统
